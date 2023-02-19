@@ -6,9 +6,9 @@ Burada açıklanan yapıların detaylı kod örnekleri repo içerisindeki source
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#sql-komutlari"> SQL KOMUTLARI: DML, DDL, TCL, DCL </a>
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#data-types"> DATA TYPES </a>
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#declare-ve-begin"> DECLARE & BEGIN </a>
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#ifelse---case"> CONDITIONS </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#ifelse"> CONDITIONS </a>
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#loops"> LOOPS </a>
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#cursors"> CURSORS </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#cursor"> CURSOR </a>
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#procedure"> PROCEDURE </a>
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#functions"> FUNCTIONS </a>
 
