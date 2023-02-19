@@ -3,14 +3,14 @@
 Oracle veri tabanı sistemine özgü olan PL/SQL dili ile ilgili olarak hazırladığım bu içerik en sık kullanılan PL/SQL yapılarını, basic konuları içermektedir.
 Burada açıklanan yapıların detaylı kod örnekleri repo içerisindeki source dosyasında yer almaktadır.
 
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/edit/main/README.md#sql-komutlari"> SQL KOMUTLARI: DML, DDL, TCL, DCL </a>
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/edit/main/README.md#data-types"> DATA TYPES </a>
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/edit/main/README.md#declare-ve-begin"> DECLARE & BEGIN </a>
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/edit/main/README.md#ifelse---case"> CONDITIONS </a>
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/edit/main/README.md#loops"> LOOPS </a>
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/edit/main/README.md#cursors"> CURSORS </a>
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/edit/main/README.md#procedure"> PROCEDURE </a>
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/edit/main/README.md#functions"> FUNCTIONS </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#sql-komutlari"> SQL KOMUTLARI: DML, DDL, TCL, DCL </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#data-types"> DATA TYPES </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#declare-ve-begin"> DECLARE & BEGIN </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#ifelse---case"> CONDITIONS </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#loops"> LOOPS </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#cursors"> CURSORS </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#procedure"> PROCEDURE </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#functions"> FUNCTIONS </a>
 
 ## SQL KOMUTLARI
 <blockquote>
@@ -164,11 +164,11 @@ END;
 <hr></hr>
 
 ## IF/ELSE
-
-<blockquote>
 <p>
 Belirli bir koşulun sağlanması durumunda çalışan kod bloğunun oluşturulması için IF/ELSE kullanılır.
 </p>
+<img style="width:350px; heigth:350px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6tYltRH8rbFXuGSl9JZtGMF2Hkb_6JDucA&usqp=CAU"></img>
+<blockquote>
 <pre>
 DECLARE
   v_sayi NUMBER := &sayi; -- kullanıcıdan sayı değeri alınır
