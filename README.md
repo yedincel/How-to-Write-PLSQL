@@ -3,9 +3,13 @@
 Oracle veri tabanı sistemine özgü olan PL/SQL dili ile ilgili olarak hazırladığım bu içerik en sık kullanılan PL/SQL yapılarını, basic konuları içermektedir.
 Burada açıklanan yapıların detaylı kod örnekleri repo içerisindeki source dosyasında yer almaktadır.
 
-- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#sql-komutlari"> SQL KOMUTLARI: DML, DDL, TCL, DCL </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#sql-komutlari"> SQL COMMANDS: DML, DDL, TCL, DCL </a>
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#data-types"> DATA TYPES </a>
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#declare-ve-begin"> DECLARE & BEGIN </a>
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#operators"> OPERATORS </a>				
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#into-ve-sql-functions"> INTO & SQL FUNCTIONS </a>  	
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#sequence-ve-qualifier"> SEQUENCE & QUALIFIER </a>		
+- <a href="https://github.com/yedincel/How-to-Write-PLSQL/#sql-dml-commands"> SQL DML COMMANDS </a>			
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#ifelse"> CONDITIONS </a>
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#loops"> LOOPS </a>
 - <a href="https://github.com/yedincel/How-to-Write-PLSQL/#cursor"> CURSOR </a>
@@ -159,6 +163,42 @@ BEGIN
   v_isim := '&isim';
   dbms_output.put_line('Merhaba ' || v_isim);
 END;
+</pre>
+</blockquote>
+<hr></hr>
+
+## OPERATORS
+<p>
+</p>
+<blockquote>
+<pre>
+</pre>
+</blockquote>
+<hr></hr>
+
+## INTO ve SQL FUNCTIONS
+<p>
+</p>
+<blockquote>
+<pre>
+</pre>
+</blockquote>
+<hr></hr>
+
+## SEQUENCE ve QUALIFIER
+<p>
+</p>
+<blockquote>
+<pre>
+</pre>
+</blockquote>
+<hr></hr>
+
+## SQL DML COMMANDS
+<p>
+</p>
+<blockquote>
+<pre>
 </pre>
 </blockquote>
 <hr></hr>
