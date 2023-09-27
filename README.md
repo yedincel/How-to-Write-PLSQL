@@ -18,7 +18,7 @@ Burada açıklanan yapıların detaylı kod örnekleri repo içerisindeki source
 
 ## SQL KOMUTLARI
 <blockquote>
-<img style="width:700px; heigth:500px" src="https://media.geeksforgeeks.org/wp-content/uploads/sql-commands.jpg"></img>
+<img style="width:700px; heigth:500px" src="https://github.com/yedincel/How-to-Write-PLSQL/blob/main/images/SQL.png?raw=true"></img>
 </blockquote>
 
 ### DDL - Data Dictionary Langue
